@@ -21,7 +21,7 @@ def count_occurrence(input_str):
     @description:
         Function to count the occurrence of each letter in a string
     @param:
-        Input string
+        Input string.
     @return:
         Dict of count of occurrences of each letters in the given string
     '''
